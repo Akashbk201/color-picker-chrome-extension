@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Color Code Picker",
+  "version": "1.0.0",
+  "description": "A Simple Extention for picking up color code.",
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html",
+    "default_title": "Color Picker"
+  }
+}
